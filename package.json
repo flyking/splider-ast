@@ -1,0 +1,22 @@
+{
+  "name": "splider-ast",
+  "version": "1.0.0",
+  "description": "splider a page use a ast analyse,recommend what you what to collect.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aplider",
+    "ast"
+  ],
+  "author": "flyking",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.0.5",
+    "htmlparser2": "^3.9.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.1"
+  }
+}
